@@ -1,5 +1,7 @@
 # Wordpress Bug Bounty
 
+> For educational purposes only
+
 ![wordpress-logo-1](https://github.com/user-attachments/assets/76b9aeeb-39f1-4eff-b5a7-995d0e7a9cf6)
 
 ### Medium Blogs
